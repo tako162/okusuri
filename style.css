@@ -24,9 +24,9 @@
      margin: 10px;
      align-items: center;
      justify-content: center;
-     background: radial-gradient(#D5FFE8, #E8FFF7);
+     background: radial-gradient(#D5E0E8, #E8F2F7);
      border: solid 2px #DEE9F3;
-     box-shadow: -5px -5px 30px 0px rgba(255, 255, 255, 0.8), 5px 5px 50px 0px rgba(0, 40, 100, 0.3);
+     box-shadow: -5px -5px 30px 0px rgba(100, 255, 200, 0.8), 5px 5px 50px 0px rgba(0, 40, 100, 0.3);
  }
 
  .round {
@@ -38,8 +38,13 @@
  }
 
  .btn-font {
+
      font-size: 50px;
      color: #6C7B91;
+ }
+
+ .highlight {
+     background-color: #00FF0055;
  }
 
 
