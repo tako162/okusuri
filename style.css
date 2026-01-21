@@ -1,0 +1,52 @@
+ body {
+     font-family: monospace;
+     background-color: #C9DCEA;
+ }
+
+ .login-form {
+     text-align: center;
+     background-color: #00FF0055;
+     color: #FF0000;
+ }
+
+ .original-box-shadow {
+     display: flex;
+     margin: 10px;
+     align-items: center;
+     justify-content: center;
+     background: radial-gradient(#D5E0E8, #E8F2F7);
+     border: solid 2px #DEE9F3;
+     box-shadow: -5px -5px 30px 0px rgba(255, 255, 255, 0.8), 5px 5px 50px 0px rgba(0, 40, 100, 0.3);
+ }
+
+ .original-box-shadow2 {
+     display: flex;
+     margin: 10px;
+     align-items: center;
+     justify-content: center;
+     background: radial-gradient(#D5FFE8, #E8FFF7);
+     border: solid 2px #DEE9F3;
+     box-shadow: -5px -5px 30px 0px rgba(255, 255, 255, 0.8), 5px 5px 50px 0px rgba(0, 40, 100, 0.3);
+ }
+
+ .round {
+     border-radius: 100px;
+ }
+
+ .scr {
+     height: 100px;
+ }
+
+ .btn-font {
+     font-size: 50px;
+     color: #6C7B91;
+ }
+
+
+ .material-symbols-outlined {
+     font-variation-settings:
+         'FILL' 0,
+         'wght' 400,
+         'GRAD' 0,
+         'opsz' 24
+ }
