@@ -177,7 +177,7 @@
         <script>
             let d = new Date();
             let element = document.getElementById('msg');
-            element.insertAdjacentHTML('afterend', '<p class="btn-font">' + d.toTimeString() + '</p>');
+            element.insertAdjacentHTML('afterend', '<p style="color:#6C7B91">' + d.toTimeString() + '</p>');
             let btnReload = document.getElementById('btnReload');
             btnReload.addEventListener('click', function () {
                 window.location.reload();
